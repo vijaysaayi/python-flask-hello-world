@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/89a79879-3240-47e4-b422-7e0288194696/resourceGroups/exp-py-rsg/providers/Microsoft.Web/sites/exp-py-code-38-wa",
+    "appService.deploySubpath": "."
+}
